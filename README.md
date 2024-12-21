@@ -1,43 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 💫 About Me:
+🎓📘 B.Com graduate from Ethlive Institute, with a specialization in business entrepreneurship.<br>💻📊 Data analyst with expertise in SQL, Excel, Python, Tableau, and Power BI.<br>📈📋 Focused on creating impactful dashboards and analyzing business data to derive actionable insights.<br>🌐📖 Pursuing online courses and virtual internships to sharpen data analytics skills.<br>📊📅 Completed projects in sales data analysis, customer segmentation, and performance dashboards.<br>🧠📚 Continuously learning advanced analytics techniques and tools to stay updated in the field.<br>🎯💼 Networking actively with professionals to expand opportunities in data analytics roles.<br>🌟🏫 Attends Python and SQL classes to strengthen technical knowledge and problem-solving skills.<br>📄💻 Building a portfolio website to showcase data projects and professional expertise.<br>🏆🚀 Dedicated to leveraging analytical skills for impactful contributions in e-commerce, retail, and finance domains.
 
-<img align="right" alt="coding"width="400" src="https://www.analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2322&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2322" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_rohitt_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waghmare-rohit2307) 
 
-- 🌱 I’m currently learning **Data Analysis**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohit2322&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohit2322&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit2322&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://rohit2322.github.io/Rohit_Waghmare.git.io/#](https://rohit2322.github.io/Rohit_Waghmare.git.io/#)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohit2322&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **Microsoft Excel, Power-Bi, SQL, Python**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **wrohit551@email.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rohit2322&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/waghmare-rohit2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waghmare-rohit2307" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=rohit2322&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit2322&show_icons=true&locale=en&layout=compact" alt="rohit2322" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit2322&show_icons=true&locale=en" alt="rohit2322" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit2322&" alt="rohit2322" /></p>
-
-<!--
-**rohit2322/rohit2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
